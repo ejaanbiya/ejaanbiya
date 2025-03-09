@@ -2,10 +2,10 @@
 
 <h3>🔎 About Me:</h3>
 
-Harris J. Anbiya
-He/Him
-Born on Dec 23 2004
-Medan, Indonesia 20857
+- Harris J. Anbiya
+- He/Him
+- Born on Dec 23 2004
+- Medan, Indonesia 20857
 
 <h3> Introduction </h3>
 
@@ -15,21 +15,21 @@ Medan, Indonesia 20857
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abyankhairii&show_icons=true&theme=tokyonight" alt="Github Stats"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ejaanbiya&show_icons=true&theme=tokyonight" alt="Github Stats"> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abyankhairii&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ejaanbiya&theme=radical" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abyankhairii&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejaanbiya&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abyankhairii&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile Views" /><br>
+  <img src="https://komarev.com/ghpvc/?username=ejaanbiya&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile Views" /><br>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=abyankhairii&theme=radical&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ejaanbiya&theme=radical&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
